@@ -18,6 +18,10 @@ GENERATION_SETTINGS = {
     'enable_ai_generation': True
 }
 
+
+# Connection String Template - to be changed
+DATABASE_URL=postgresql://admin:MySecureP@ssw0rd!@myapp-db.c9x8y7z6w5v4.us-east-1.rds.amazonaws.com:5432/rbac_production
+
 # API Endpoints
 API_BASE_URL = 'https://api.openai.com/v1'
 
