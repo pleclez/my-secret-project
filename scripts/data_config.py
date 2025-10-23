@@ -4,7 +4,7 @@ Configuration file for data generation scripts
 
 # OpenAI Configuration
 OPENAI_CONFIG = {
-    'api_key': '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',
+    'api_key': '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',
     'model': 'gpt-4',
     'temperature': 0.7,
     'max_tokens': 2000
