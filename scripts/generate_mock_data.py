@@ -7,7 +7,7 @@ import random
 from openai import OpenAI
 
 # OpenAI API Configuration
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 
 # Initialize OpenAI client
 client = OpenAI(api_key=OPENAI_API_KEY)
