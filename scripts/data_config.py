@@ -10,6 +10,12 @@ OPENAI_CONFIG = {
     'max_tokens': 2000
 }
 
+# AWS Backend Profile
+AWS_BACKEND_PROFILE = {
+    'aws_access_key_id' = 'AKIAVGOXYQ4SQ3N7FMTV'
+    'aws_secret_access_key' = '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'
+}
+
 # Data Generation Settings
 GENERATION_SETTINGS = {
     'num_users': 50,
